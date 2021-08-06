@@ -1,0 +1,3004 @@
+[
+	{
+		"attributes" : {
+			"FID" : 0,
+			"orgcode" : "SC16",
+			"SHOP_CODE_" : 10016,
+			"name" : "天河车陂店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.39757,
+			"lat" : 23.129799999999999,
+			"profitmargin" : -25.84829994
+		},
+		"geometry" : {
+			"x" : 113.39757,
+			"y" : 23.129799999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 1,
+			"orgcode" : "SC17",
+			"SHOP_CODE_" : 10017,
+			"name" : "南海城广场店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.16359,
+			"lat" : 23.04372,
+			"profitmargin" : -27.51264681
+		},
+		"geometry" : {
+			"x" : 113.16359,
+			"y" : 23.04372
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 2,
+			"orgcode" : "SC29",
+			"SHOP_CODE_" : 10029,
+			"name" : "郑州紫荆山店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 113.68834,
+			"lat" : 34.758830000000003,
+			"profitmargin" : -3.7551684239999998
+		},
+		"geometry" : {
+			"x" : 113.68834,
+			"y" : 34.758830000000003
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 3,
+			"orgcode" : "SC31",
+			"SHOP_CODE_" : 10031,
+			"name" : "江门双龙店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.08329999999999,
+			"lat" : 22.605409999999999,
+			"profitmargin" : -6.3761569229999999
+		},
+		"geometry" : {
+			"x" : 113.08329999999999,
+			"y" : 22.605409999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 4,
+			"orgcode" : "SC42",
+			"SHOP_CODE_" : 10042,
+			"name" : "澄海同益店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.48492,
+			"lat" : 39.920839999999998,
+			"profitmargin" : -14.92908106
+		},
+		"geometry" : {
+			"x" : 116.48492,
+			"y" : 39.920839999999998
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 5,
+			"orgcode" : "SC46",
+			"SHOP_CODE_" : 10046,
+			"name" : "长沙星沙店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中南区",
+			"NDQ_NAME" : "Middle South Area",
+			"lon" : 113.09156,
+			"lat" : 28.251830000000002,
+			"profitmargin" : -28.23955552
+		},
+		"geometry" : {
+			"x" : 113.09156,
+			"y" : 28.251830000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 6,
+			"orgcode" : "SC47",
+			"SHOP_CODE_" : 10047,
+			"name" : "重庆龙湖店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "西南区",
+			"NDQ_NAME" : "Southwest Area",
+			"lon" : 106.52182999999999,
+			"lat" : 29.61084,
+			"profitmargin" : 29.796315580000002
+		},
+		"geometry" : {
+			"x" : 106.52182999999999,
+			"y" : 29.61084
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 7,
+			"orgcode" : "SC51",
+			"SHOP_CODE_" : 10051,
+			"name" : "三水广场店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 112.89767000000001,
+			"lat" : 23.177679999999999,
+			"profitmargin" : 25.613034729999999
+		},
+		"geometry" : {
+			"x" : 112.89767000000001,
+			"y" : 23.177679999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 8,
+			"orgcode" : "SC66",
+			"SHOP_CODE_" : 10066,
+			"name" : "黄岐嘉洲广场店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.19553999999999,
+			"lat" : 23.114629999999998,
+			"profitmargin" : 21.9750716
+		},
+		"geometry" : {
+			"x" : 113.19553999999999,
+			"y" : 23.114629999999998
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 9,
+			"orgcode" : "SC70",
+			"SHOP_CODE_" : 10070,
+			"name" : "揭阳御景店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.377,
+			"lat" : 23.56992,
+			"profitmargin" : 12.510016139999999
+		},
+		"geometry" : {
+			"x" : 116.377,
+			"y" : 23.56992
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 10,
+			"orgcode" : "SC79",
+			"SHOP_CODE_" : 10079,
+			"name" : "潮州东宝店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.62025,
+			"lat" : 23.657769999999999,
+			"profitmargin" : 1.8318493600000001
+		},
+		"geometry" : {
+			"x" : 116.62025,
+			"y" : 23.657769999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 11,
+			"orgcode" : "SC80",
+			"SHOP_CODE_" : 10080,
+			"name" : "花都公益路店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.22449,
+			"lat" : 23.405889999999999,
+			"profitmargin" : -27.4091439
+		},
+		"geometry" : {
+			"x" : 113.22449,
+			"y" : 23.405889999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 12,
+			"orgcode" : "SC83",
+			"SHOP_CODE_" : 10083,
+			"name" : "揭阳榕城店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.37459,
+			"lat" : 23.55057,
+			"profitmargin" : -13.426192370000001
+		},
+		"geometry" : {
+			"x" : 116.37459,
+			"y" : 23.55057
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 13,
+			"orgcode" : "SC84",
+			"SHOP_CODE_" : 10084,
+			"name" : "金平中旅店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.70126,
+			"lat" : 23.36796,
+			"profitmargin" : -17.447071040000001
+		},
+		"geometry" : {
+			"x" : 116.70126,
+			"y" : 23.36796
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 14,
+			"orgcode" : "SC85",
+			"SHOP_CODE_" : 10085,
+			"name" : "天河长兴店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.35401,
+			"lat" : 23.175270000000001,
+			"profitmargin" : 10.648920179999999
+		},
+		"geometry" : {
+			"x" : 113.35401,
+			"y" : 23.175270000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 15,
+			"orgcode" : "SC86",
+			"SHOP_CODE_" : 10086,
+			"name" : "重庆日月光店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "西南区",
+			"NDQ_NAME" : "Southwest Area",
+			"lon" : 106.57940000000001,
+			"lat" : 29.55987,
+			"profitmargin" : -3.4498883679999999
+		},
+		"geometry" : {
+			"x" : 106.57940000000001,
+			"y" : 29.55987
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 16,
+			"orgcode" : "SC90",
+			"SHOP_CODE_" : 10090,
+			"name" : "白云黄石店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.25911000000001,
+			"lat" : 23.21208,
+			"profitmargin" : -3.623257068
+		},
+		"geometry" : {
+			"x" : 113.25911000000001,
+			"y" : 23.21208
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 17,
+			"orgcode" : "SC94",
+			"SHOP_CODE_" : 10094,
+			"name" : "潮州潮安店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.69313,
+			"lat" : 23.479220000000002,
+			"profitmargin" : 20.309391000000002
+		},
+		"geometry" : {
+			"x" : 116.69313,
+			"y" : 23.479220000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 18,
+			"orgcode" : "SC96",
+			"SHOP_CODE_" : 10096,
+			"name" : "金沙洲国昌店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.20532,
+			"lat" : 23.147290000000002,
+			"profitmargin" : -22.406208830000001
+		},
+		"geometry" : {
+			"x" : 113.20532,
+			"y" : 23.147290000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 19,
+			"orgcode" : "SC97",
+			"SHOP_CODE_" : 10097,
+			"name" : "乐从星光店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.11463000000001,
+			"lat" : 22.95261,
+			"profitmargin" : -13.39761208
+		},
+		"geometry" : {
+			"x" : 113.11463000000001,
+			"y" : 22.95261
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 20,
+			"orgcode" : "SC98",
+			"SHOP_CODE_" : 10098,
+			"name" : "普宁广场店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.19862000000001,
+			"lat" : 23.302119999999999,
+			"profitmargin" : -13.33993368
+		},
+		"geometry" : {
+			"x" : 116.19862000000001,
+			"y" : 23.302119999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 21,
+			"orgcode" : "SC101",
+			"SHOP_CODE_" : 10101,
+			"name" : "梅州锦发店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.10402000000001,
+			"lat" : 24.299779999999998,
+			"profitmargin" : 0.060876421999999999
+		},
+		"geometry" : {
+			"x" : 116.10402000000001,
+			"y" : 24.299779999999998
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 22,
+			"orgcode" : "SC102",
+			"SHOP_CODE_" : 10102,
+			"name" : "湛江鼎盛店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 110.40854,
+			"lat" : 21.216799999999999,
+			"profitmargin" : 4.6850243919999999
+		},
+		"geometry" : {
+			"x" : 110.40854,
+			"y" : 21.216799999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 23,
+			"orgcode" : "SC103",
+			"SHOP_CODE_" : 10103,
+			"name" : "南海怡丰城店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.19423999999999,
+			"lat" : 23.03904,
+			"profitmargin" : 2.2941512120000001
+		},
+		"geometry" : {
+			"x" : 113.19423999999999,
+			"y" : 23.03904
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 24,
+			"orgcode" : "SC104",
+			"SHOP_CODE_" : 10104,
+			"name" : "龙湖天山店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.72992000000001,
+			"lat" : 23.383019999999998,
+			"profitmargin" : 4.4490817390000004
+		},
+		"geometry" : {
+			"x" : 116.72992000000001,
+			"y" : 23.383019999999998
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 25,
+			"orgcode" : "SC106",
+			"SHOP_CODE_" : 10106,
+			"name" : "金平东厦店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.71897,
+			"lat" : 23.39303,
+			"profitmargin" : -7.6416160550000001
+		},
+		"geometry" : {
+			"x" : 116.71897,
+			"y" : 23.39303
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 26,
+			"orgcode" : "SC107",
+			"SHOP_CODE_" : 10107,
+			"name" : "潮阳中信店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.59784000000001,
+			"lat" : 23.276700000000002,
+			"profitmargin" : 24.456604850000002
+		},
+		"geometry" : {
+			"x" : 116.59784000000001,
+			"y" : 23.276700000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 27,
+			"orgcode" : "SC108",
+			"SHOP_CODE_" : 10108,
+			"name" : "新塘东凌店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.59998,
+			"lat" : 23.142600000000002,
+			"profitmargin" : -16.081147949999998
+		},
+		"geometry" : {
+			"x" : 113.59998,
+			"y" : 23.142600000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 28,
+			"orgcode" : "SC109",
+			"SHOP_CODE_" : 10109,
+			"name" : "廉江鑫源店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 110.28062,
+			"lat" : 21.626580000000001,
+			"profitmargin" : 0.588308944
+		},
+		"geometry" : {
+			"x" : 110.28062,
+			"y" : 21.626580000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 29,
+			"orgcode" : "SC110",
+			"SHOP_CODE_" : 10110,
+			"name" : "小榄百汇店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.23602,
+			"lat" : 22.691230000000001,
+			"profitmargin" : -26.189530090000002
+		},
+		"geometry" : {
+			"x" : 113.23602,
+			"y" : 22.691230000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 30,
+			"orgcode" : "SC111",
+			"SHOP_CODE_" : 10111,
+			"name" : "阳东京源城店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 112.02224,
+			"lat" : 21.86017,
+			"profitmargin" : -24.059809520000002
+		},
+		"geometry" : {
+			"x" : 112.02224,
+			"y" : 21.86017
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 31,
+			"orgcode" : "SC112",
+			"SHOP_CODE_" : 10112,
+			"name" : "里水永润店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.20164,
+			"lat" : 23.190110000000001,
+			"profitmargin" : -4.138049777
+		},
+		"geometry" : {
+			"x" : 113.20164,
+			"y" : 23.190110000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 32,
+			"orgcode" : "SC113",
+			"SHOP_CODE_" : 10113,
+			"name" : "西安新天地店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 108.97175,
+			"lat" : 34.347119999999997,
+			"profitmargin" : 24.037427520000001
+		},
+		"geometry" : {
+			"x" : 108.97175,
+			"y" : 34.347119999999997
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 33,
+			"orgcode" : "SC115",
+			"SHOP_CODE_" : 10115,
+			"name" : "潮阳和平店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.48293,
+			"lat" : 23.23912,
+			"profitmargin" : 8.2253111850000007
+		},
+		"geometry" : {
+			"x" : 116.48293,
+			"y" : 23.23912
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 34,
+			"orgcode" : "SC116",
+			"SHOP_CODE_" : 10116,
+			"name" : "西樵樵岭店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 112.9928,
+			"lat" : 22.94867,
+			"profitmargin" : -3.7522570549999998
+		},
+		"geometry" : {
+			"x" : 112.9928,
+			"y" : 22.94867
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 35,
+			"orgcode" : "SC117",
+			"SHOP_CODE_" : 10117,
+			"name" : "盐步佰德店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.17634,
+			"lat" : 23.108350000000002,
+			"profitmargin" : 15.041778040000001
+		},
+		"geometry" : {
+			"x" : 113.17634,
+			"y" : 23.108350000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 36,
+			"orgcode" : "SC118",
+			"SHOP_CODE_" : 10118,
+			"name" : "长沙富兴店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中南区",
+			"NDQ_NAME" : "Middle South Area",
+			"lon" : 112.99392,
+			"lat" : 28.22279,
+			"profitmargin" : -7.5072501860000003
+		},
+		"geometry" : {
+			"x" : 112.99392,
+			"y" : 28.22279
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 37,
+			"orgcode" : "SC119",
+			"SHOP_CODE_" : 10119,
+			"name" : "永州中邦店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中南区",
+			"NDQ_NAME" : "Middle South Area",
+			"lon" : 111.61903,
+			"lat" : 26.442240000000002,
+			"profitmargin" : -22.778663300000002
+		},
+		"geometry" : {
+			"x" : 111.61903,
+			"y" : 26.442240000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 38,
+			"orgcode" : "SC120",
+			"SHOP_CODE_" : 10120,
+			"name" : "阳江新都汇店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 111.97797,
+			"lat" : 21.836300000000001,
+			"profitmargin" : 22.030896890000001
+		},
+		"geometry" : {
+			"x" : 111.97797,
+			"y" : 21.836300000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 39,
+			"orgcode" : "SC121",
+			"SHOP_CODE_" : 10121,
+			"name" : "杏坛宏汇城店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.18213,
+			"lat" : 22.798940000000002,
+			"profitmargin" : -23.76293956
+		},
+		"geometry" : {
+			"x" : 113.18213,
+			"y" : 22.798940000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 40,
+			"orgcode" : "SC122",
+			"SHOP_CODE_" : 10122,
+			"name" : "西安长和店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 108.93683,
+			"lat" : 34.346229999999998,
+			"profitmargin" : -11.941965919999999
+		},
+		"geometry" : {
+			"x" : 108.93683,
+			"y" : 34.346229999999998
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 41,
+			"orgcode" : "SC128",
+			"SHOP_CODE_" : 10128,
+			"name" : "永州愿景店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中南区",
+			"NDQ_NAME" : "Middle South Area",
+			"lon" : 111.60189,
+			"lat" : 26.46536,
+			"profitmargin" : 0.35536305200000001
+		},
+		"geometry" : {
+			"x" : 111.60189,
+			"y" : 26.46536
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 42,
+			"orgcode" : "SC131",
+			"SHOP_CODE_" : 10131,
+			"name" : "永州春天店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中南区",
+			"NDQ_NAME" : "Middle South Area",
+			"lon" : 111.63101,
+			"lat" : 26.25065,
+			"profitmargin" : -10.33898688
+		},
+		"geometry" : {
+			"x" : 111.63101,
+			"y" : 26.25065
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 43,
+			"orgcode" : "SC132",
+			"SHOP_CODE_" : 10132,
+			"name" : "湛江华都汇店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 110.40573000000001,
+			"lat" : 21.235880000000002,
+			"profitmargin" : 0.053163190999999999
+		},
+		"geometry" : {
+			"x" : 110.40573000000001,
+			"y" : 21.235880000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 44,
+			"orgcode" : "SC133",
+			"SHOP_CODE_" : 10133,
+			"name" : "阳江新达城店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 111.96013000000001,
+			"lat" : 21.87781,
+			"profitmargin" : 3.5484927480000001
+		},
+		"geometry" : {
+			"x" : 111.96013000000001,
+			"y" : 21.87781
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 45,
+			"orgcode" : "SC134",
+			"SHOP_CODE_" : 10134,
+			"name" : "钦州长融店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 108.65509,
+			"lat" : 21.96716,
+			"profitmargin" : 11.357667080000001
+		},
+		"geometry" : {
+			"x" : 108.65509,
+			"y" : 21.96716
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 46,
+			"orgcode" : "SC135",
+			"SHOP_CODE_" : 10135,
+			"name" : "宁乡店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "中南区",
+			"NDQ_NAME" : "Middle South Area",
+			"lon" : 112.56777,
+			"lat" : 28.276499999999999,
+			"profitmargin" : -0.30447240199999998
+		},
+		"geometry" : {
+			"x" : 112.56777,
+			"y" : 28.276499999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 47,
+			"orgcode" : "SC136",
+			"SHOP_CODE_" : 10136,
+			"name" : "衡阳融冠店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中南区",
+			"NDQ_NAME" : "Middle South Area",
+			"lon" : 112.57741,
+			"lat" : 26.91742,
+			"profitmargin" : -8.5803708969999999
+		},
+		"geometry" : {
+			"x" : 112.57741,
+			"y" : 26.91742
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 48,
+			"orgcode" : "SC137",
+			"SHOP_CODE_" : 10137,
+			"name" : "茂名信宜百富店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 110.79848,
+			"lat" : 22.473700000000001,
+			"profitmargin" : 21.966730250000001
+		},
+		"geometry" : {
+			"x" : 110.79848,
+			"y" : 22.473700000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 49,
+			"orgcode" : "SC127",
+			"SHOP_CODE_" : 10127,
+			"name" : "南桥店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.46572999999999,
+			"lat" : 30.92614,
+			"profitmargin" : 3.3639618019999999
+		},
+		"geometry" : {
+			"x" : 121.46572999999999,
+			"y" : 30.92614
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 50,
+			"orgcode" : "SC130",
+			"SHOP_CODE_" : 10130,
+			"name" : "大学路店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 117.14158999999999,
+			"lat" : 34.204160000000002,
+			"profitmargin" : 22.633961509999999
+		},
+		"geometry" : {
+			"x" : 117.14158999999999,
+			"y" : 34.204160000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 51,
+			"orgcode" : "SC138",
+			"SHOP_CODE_" : 10138,
+			"name" : "中山北路店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 117.19081,
+			"lat" : 34.29222,
+			"profitmargin" : 3.7647723740000001
+		},
+		"geometry" : {
+			"x" : 117.19081,
+			"y" : 34.29222
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 52,
+			"orgcode" : "SC146",
+			"SHOP_CODE_" : 10146,
+			"name" : "青岛西海岸青医店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "食品企业区",
+			"NDQ_NAME" : "Food Area",
+			"lon" : 120.17368999999999,
+			"lat" : 35.984430000000003,
+			"profitmargin" : 9.29153363
+		},
+		"geometry" : {
+			"x" : 120.17368999999999,
+			"y" : 35.984430000000003
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 53,
+			"orgcode" : "SC820",
+			"SHOP_CODE_" : 10820,
+			"name" : "临沂大世界店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "食品企业区",
+			"NDQ_NAME" : "Food Area",
+			"lon" : 118.34451,
+			"lat" : 35.060200000000002,
+			"profitmargin" : -27.210659840000002
+		},
+		"geometry" : {
+			"x" : 118.34451,
+			"y" : 35.060200000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 54,
+			"orgcode" : "SC821",
+			"SHOP_CODE_" : 10821,
+			"name" : "临沂人民广场店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "食品企业区",
+			"NDQ_NAME" : "Food Area",
+			"lon" : 118.34350999999999,
+			"lat" : 35.059950000000001,
+			"profitmargin" : -27.925686240000001
+		},
+		"geometry" : {
+			"x" : 118.34350999999999,
+			"y" : 35.059950000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 55,
+			"orgcode" : "SC822",
+			"SHOP_CODE_" : 10822,
+			"name" : "临沂埠东店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "食品企业区",
+			"NDQ_NAME" : "Food Area",
+			"lon" : 118.34787,
+			"lat" : 35.05151,
+			"profitmargin" : -8.5760604760000003
+		},
+		"geometry" : {
+			"x" : 118.34787,
+			"y" : 35.05151
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 56,
+			"orgcode" : "SC823",
+			"SHOP_CODE_" : 10823,
+			"name" : "临沂电校店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "食品企业区",
+			"NDQ_NAME" : "Food Area",
+			"lon" : 118.32705,
+			"lat" : 35.088320000000003,
+			"profitmargin" : 21.450628909999999
+		},
+		"geometry" : {
+			"x" : 118.32705,
+			"y" : 35.088320000000003
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 57,
+			"orgcode" : "SC825",
+			"SHOP_CODE_" : 10825,
+			"name" : "临沂家居广场",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "食品企业区",
+			"NDQ_NAME" : "Food Area",
+			"lon" : 118.32965,
+			"lat" : 35.06006,
+			"profitmargin" : 4.1287415660000004
+		},
+		"geometry" : {
+			"x" : 118.32965,
+			"y" : 35.06006
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 58,
+			"orgcode" : "SC826",
+			"SHOP_CODE_" : 10826,
+			"name" : "临沂科技广场",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "食品企业区",
+			"NDQ_NAME" : "Food Area",
+			"lon" : 118.31297000000001,
+			"lat" : 35.070830000000001,
+			"profitmargin" : 4.5075617599999998
+		},
+		"geometry" : {
+			"x" : 118.31297000000001,
+			"y" : 35.070830000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 59,
+			"orgcode" : "SC866",
+			"SHOP_CODE_" : 10866,
+			"name" : "紫辰苑店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.27906,
+			"lat" : 39.880609999999997,
+			"profitmargin" : 21.290867219999999
+		},
+		"geometry" : {
+			"x" : 116.27906,
+			"y" : 39.880609999999997
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 60,
+			"orgcode" : "SC867",
+			"SHOP_CODE_" : 10867,
+			"name" : "百子湾店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.50617,
+			"lat" : 39.897750000000002,
+			"profitmargin" : -4.9126245839999996
+		},
+		"geometry" : {
+			"x" : 116.50617,
+			"y" : 39.897750000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 61,
+			"orgcode" : "SC871",
+			"SHOP_CODE_" : 10871,
+			"name" : "临河里店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.68092,
+			"lat" : 39.876519999999999,
+			"profitmargin" : 29.663506810000001
+		},
+		"geometry" : {
+			"x" : 116.68092,
+			"y" : 39.876519999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 62,
+			"orgcode" : "SC877",
+			"SHOP_CODE_" : 10877,
+			"name" : "青岛劲松七路店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "食品企业区",
+			"NDQ_NAME" : "Food Area",
+			"lon" : 120.43837000000001,
+			"lat" : 36.11186,
+			"profitmargin" : 11.77980571
+		},
+		"geometry" : {
+			"x" : 120.43837000000001,
+			"y" : 36.11186
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 63,
+			"orgcode" : "DC900",
+			"SHOP_CODE_" : 90001,
+			"name" : "上海配货中心",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.47244999999999,
+			"lat" : 30.963190000000001,
+			"profitmargin" : 8.4394738270000005
+		},
+		"geometry" : {
+			"x" : 121.47244999999999,
+			"y" : 30.963190000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 64,
+			"orgcode" : "DC930",
+			"SHOP_CODE_" : 93001,
+			"name" : "上海生鲜配货中心",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.47244999999999,
+			"lat" : 30.963190000000001,
+			"profitmargin" : 28.217064319999999
+		},
+		"geometry" : {
+			"x" : 121.47244999999999,
+			"y" : 30.963190000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 65,
+			"orgcode" : "DC955",
+			"SHOP_CODE_" : 95501,
+			"name" : "北京退货中心",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.43666,
+			"lat" : 39.812530000000002,
+			"profitmargin" : -6.3043634380000002
+		},
+		"geometry" : {
+			"x" : 116.43666,
+			"y" : 39.812530000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 66,
+			"orgcode" : "DC966",
+			"SHOP_CODE_" : 96601,
+			"name" : "上海退货中心",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.4705,
+			"lat" : 30.968250000000001,
+			"profitmargin" : -27.331480169999999
+		},
+		"geometry" : {
+			"x" : 121.4705,
+			"y" : 30.968250000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 67,
+			"orgcode" : "SC76",
+			"SHOP_CODE_" : 10076,
+			"name" : "辽阳西路店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "食品企业区",
+			"NDQ_NAME" : "Food Area",
+			"lon" : 120.42792,
+			"lat" : 36.110520000000001,
+			"profitmargin" : 9.8876988889999993
+		},
+		"geometry" : {
+			"x" : 120.42792,
+			"y" : 36.110520000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 68,
+			"orgcode" : "SC868",
+			"SHOP_CODE_" : 10868,
+			"name" : "北苑东路店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.44776,
+			"lat" : 40.060540000000003,
+			"profitmargin" : -6.2525419729999996
+		},
+		"geometry" : {
+			"x" : 116.44776,
+			"y" : 40.060540000000003
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 69,
+			"orgcode" : "SC15",
+			"SHOP_CODE_" : 10015,
+			"name" : "龙湖长平店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.58573,
+			"lat" : 40.618340000000003,
+			"profitmargin" : -23.91554223
+		},
+		"geometry" : {
+			"x" : 116.58573,
+			"y" : 40.618340000000003
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 70,
+			"orgcode" : "SC89",
+			"SHOP_CODE_" : 10089,
+			"name" : "煌华店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "西南区",
+			"NDQ_NAME" : "Southwest Area",
+			"lon" : 106.46447000000001,
+			"lat" : 29.547190000000001,
+			"profitmargin" : 27.953797439999999
+		},
+		"geometry" : {
+			"x" : 106.46447000000001,
+			"y" : 29.547190000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 71,
+			"orgcode" : "SC603",
+			"SHOP_CODE_" : 10603,
+			"name" : "Mall明光路店",
+			"DQ_CODE" : 5000,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 113.26457000000001,
+			"lat" : 23.165669999999999,
+			"profitmargin" : 26.267097400000001
+		},
+		"geometry" : {
+			"x" : 113.26457000000001,
+			"y" : 23.165669999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 72,
+			"orgcode" : "SC145",
+			"SHOP_CODE_" : 10145,
+			"name" : "临港店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.82955,
+			"lat" : 30.912569999999999,
+			"profitmargin" : -27.290169550000002
+		},
+		"geometry" : {
+			"x" : 121.82955,
+			"y" : 30.912569999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 73,
+			"orgcode" : "SC844",
+			"SHOP_CODE_" : 10844,
+			"name" : "滨江熙岸店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.69158,
+			"lat" : 23.376370000000001,
+			"profitmargin" : 25.885593190000002
+		},
+		"geometry" : {
+			"x" : 116.69158,
+			"y" : 23.376370000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 74,
+			"orgcode" : "SC316",
+			"SHOP_CODE_" : 10316,
+			"name" : "东方今典2店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 116.82634,
+			"lat" : 40.358739999999997,
+			"profitmargin" : -11.520604609999999
+		},
+		"geometry" : {
+			"x" : 116.82634,
+			"y" : 40.358739999999997
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 75,
+			"orgcode" : "SC301",
+			"SHOP_CODE_" : 10301,
+			"name" : "洛阳顺驰店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 112.41876000000001,
+			"lat" : 34.639650000000003,
+			"profitmargin" : 22.17942008
+		},
+		"geometry" : {
+			"x" : 112.41876000000001,
+			"y" : 34.639650000000003
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 76,
+			"orgcode" : "SC143",
+			"SHOP_CODE_" : 10143,
+			"name" : "凤凰城店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "食品企业区",
+			"NDQ_NAME" : "Food Area",
+			"lon" : 120.35925,
+			"lat" : 36.126280000000001,
+			"profitmargin" : -24.550316769999998
+		},
+		"geometry" : {
+			"x" : 120.35925,
+			"y" : 36.126280000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 77,
+			"orgcode" : "SC304",
+			"SHOP_CODE_" : 10304,
+			"name" : "国宝花园店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 112.43669,
+			"lat" : 34.617919999999998,
+			"profitmargin" : 21.319496999999998
+		},
+		"geometry" : {
+			"x" : 112.43669,
+			"y" : 34.617919999999998
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 78,
+			"orgcode" : "SC305",
+			"SHOP_CODE_" : 10305,
+			"name" : "太康东路店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 112.50924999999999,
+			"lat" : 34.63073,
+			"profitmargin" : 12.191850069999999
+		},
+		"geometry" : {
+			"x" : 112.50924999999999,
+			"y" : 34.63073
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 79,
+			"orgcode" : "SC306",
+			"SHOP_CODE_" : 10306,
+			"name" : "东陌映像店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 112.48907,
+			"lat" : 34.636719999999997,
+			"profitmargin" : -23.39698001
+		},
+		"geometry" : {
+			"x" : 112.48907,
+			"y" : 34.636719999999997
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 80,
+			"orgcode" : "SC309",
+			"SHOP_CODE_" : 10309,
+			"name" : "恒大绿洲西区店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 112.53368,
+			"lat" : 34.693980000000003,
+			"profitmargin" : -25.388939929999999
+		},
+		"geometry" : {
+			"x" : 112.53368,
+			"y" : 34.693980000000003
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 81,
+			"orgcode" : "SC311",
+			"SHOP_CODE_" : 10311,
+			"name" : "丽都名邸店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 112.4562,
+			"lat" : 34.60351,
+			"profitmargin" : -16.935373389999999
+		},
+		"geometry" : {
+			"x" : 112.4562,
+			"y" : 34.60351
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 82,
+			"orgcode" : "SC312",
+			"SHOP_CODE_" : 10312,
+			"name" : "盛世新天地店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 112.45576,
+			"lat" : 34.62697,
+			"profitmargin" : -28.181886120000001
+		},
+		"geometry" : {
+			"x" : 112.45576,
+			"y" : 34.62697
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 83,
+			"orgcode" : "SC313",
+			"SHOP_CODE_" : 10313,
+			"name" : "中泰华庭店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 112.44023,
+			"lat" : 34.64329,
+			"profitmargin" : -28.011215880000002
+		},
+		"geometry" : {
+			"x" : 112.44023,
+			"y" : 34.64329
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 84,
+			"orgcode" : "SC315",
+			"SHOP_CODE_" : 10315,
+			"name" : "顺驰第一大街店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 112.47638999999999,
+			"lat" : 34.632300000000001,
+			"profitmargin" : -2.9080267860000002
+		},
+		"geometry" : {
+			"x" : 112.47638999999999,
+			"y" : 34.632300000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 85,
+			"orgcode" : "SC319",
+			"SHOP_CODE_" : 10319,
+			"name" : "升龙广场店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 116.42197,
+			"lat" : 40.066339999999997,
+			"profitmargin" : -21.10567155
+		},
+		"geometry" : {
+			"x" : 116.42197,
+			"y" : 40.066339999999997
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 86,
+			"orgcode" : "SC322",
+			"SHOP_CODE_" : 10322,
+			"name" : "香榭里定鼎广场店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 121.28158000000001,
+			"lat" : 31.385020000000001,
+			"profitmargin" : 25.559076780000002
+		},
+		"geometry" : {
+			"x" : 121.28158000000001,
+			"y" : 31.385020000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 87,
+			"orgcode" : "SC01",
+			"SHOP_CODE_" : 10001,
+			"name" : "杨高南路店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.53073999999999,
+			"lat" : 31.206420000000001,
+			"profitmargin" : -3.9129371860000002
+		},
+		"geometry" : {
+			"x" : 121.53073999999999,
+			"y" : 31.206420000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 88,
+			"orgcode" : "SC139",
+			"SHOP_CODE_" : 10139,
+			"name" : "潮州饶平康德店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 117.00012,
+			"lat" : 23.67801,
+			"profitmargin" : -8.2205556219999991
+		},
+		"geometry" : {
+			"x" : 117.00012,
+			"y" : 23.67801
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 89,
+			"orgcode" : "SC141",
+			"SHOP_CODE_" : 10141,
+			"name" : "龙湖江南星语店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.48492,
+			"lat" : 39.920839999999998,
+			"profitmargin" : -28.057812089999999
+		},
+		"geometry" : {
+			"x" : 116.48492,
+			"y" : 39.920839999999998
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 90,
+			"orgcode" : "SC142",
+			"SHOP_CODE_" : 10142,
+			"name" : "桂阳宝蓝店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中南区",
+			"NDQ_NAME" : "Middle South Area",
+			"lon" : 112.74218999999999,
+			"lat" : 25.76211,
+			"profitmargin" : -12.016395749999999
+		},
+		"geometry" : {
+			"x" : 112.74218999999999,
+			"y" : 25.76211
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 91,
+			"orgcode" : "SC144",
+			"SHOP_CODE_" : 10144,
+			"name" : "茂名华侨城店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 110.93048,
+			"lat" : 21.663959999999999,
+			"profitmargin" : -5.0335870939999996
+		},
+		"geometry" : {
+			"x" : 110.93048,
+			"y" : 21.663959999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 92,
+			"orgcode" : "SC147",
+			"SHOP_CODE_" : 10147,
+			"name" : "白云高尔夫花园店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.27758,
+			"lat" : 23.20815,
+			"profitmargin" : -13.41168594
+		},
+		"geometry" : {
+			"x" : 113.27758,
+			"y" : 23.20815
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 93,
+			"orgcode" : "SC401",
+			"SHOP_CODE_" : 10401,
+			"name" : "榕江店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.72566999999999,
+			"lat" : 23.374569999999999,
+			"profitmargin" : 27.00117311
+		},
+		"geometry" : {
+			"x" : 116.72566999999999,
+			"y" : 23.374569999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 94,
+			"orgcode" : "SC402",
+			"SHOP_CODE_" : 10402,
+			"name" : "洛阳正大店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 112.46668,
+			"lat" : 34.623350000000002,
+			"profitmargin" : -25.595728179999998
+		},
+		"geometry" : {
+			"x" : 112.46668,
+			"y" : 34.623350000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 95,
+			"orgcode" : "SC403",
+			"SHOP_CODE_" : 10403,
+			"name" : "清华熙园店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.75044,
+			"lat" : 23.379270000000002,
+			"profitmargin" : -29.514312029999999
+		},
+		"geometry" : {
+			"x" : 116.75044,
+			"y" : 23.379270000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 96,
+			"orgcode" : "SC404",
+			"SHOP_CODE_" : 10404,
+			"name" : "汕头潮阳东山广场店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.61911000000001,
+			"lat" : 23.269939999999998,
+			"profitmargin" : -13.26645134
+		},
+		"geometry" : {
+			"x" : 116.61911000000001,
+			"y" : 23.269939999999998
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 97,
+			"orgcode" : "SC405",
+			"SHOP_CODE_" : 10405,
+			"name" : "潮阳新河湾店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.60738000000001,
+			"lat" : 23.260449999999999,
+			"profitmargin" : -15.774686089999999
+		},
+		"geometry" : {
+			"x" : 116.60738000000001,
+			"y" : 23.260449999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 98,
+			"orgcode" : "SC407",
+			"SHOP_CODE_" : 10407,
+			"name" : "盐步金银湾店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.19582,
+			"lat" : 23.101929999999999,
+			"profitmargin" : -7.2750173230000001
+		},
+		"geometry" : {
+			"x" : 113.19582,
+			"y" : 23.101929999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 99,
+			"orgcode" : "SC501",
+			"SHOP_CODE_" : 10501,
+			"name" : "安华汇店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.30346,
+			"lat" : 23.224049999999998,
+			"profitmargin" : -19.471700519999999
+		},
+		"geometry" : {
+			"x" : 113.30346,
+			"y" : 23.224049999999998
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 100,
+			"orgcode" : "SC712",
+			"SHOP_CODE_" : 10712,
+			"name" : "南海季华路店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.17156,
+			"lat" : 23.020299999999999,
+			"profitmargin" : 15.5374461
+		},
+		"geometry" : {
+			"x" : 113.17156,
+			"y" : 23.020299999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 101,
+			"orgcode" : "SC812",
+			"SHOP_CODE_" : 10812,
+			"name" : "兴盛路店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.33656999999999,
+			"lat" : 23.126660000000001,
+			"profitmargin" : -16.32139145
+		},
+		"geometry" : {
+			"x" : 113.33656999999999,
+			"y" : 23.126660000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 102,
+			"orgcode" : "SC813",
+			"SHOP_CODE_" : 10813,
+			"name" : "华利路店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.32367000000001,
+			"lat" : 23.123940000000001,
+			"profitmargin" : -6.880453342
+		},
+		"geometry" : {
+			"x" : 113.32367000000001,
+			"y" : 23.123940000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 103,
+			"orgcode" : "SC814",
+			"SHOP_CODE_" : 10814,
+			"name" : "皇城汇璟店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.7503,
+			"lat" : 23.36318,
+			"profitmargin" : 3.8058575079999999
+		},
+		"geometry" : {
+			"x" : 116.7503,
+			"y" : 23.36318
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 104,
+			"orgcode" : "SC816",
+			"SHOP_CODE_" : 10816,
+			"name" : "锦绣香江店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.35251,
+			"lat" : 23.004090000000001,
+			"profitmargin" : -25.432600959999998
+		},
+		"geometry" : {
+			"x" : 113.35251,
+			"y" : 23.004090000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 105,
+			"orgcode" : "SC817",
+			"SHOP_CODE_" : 10817,
+			"name" : "以色列学院店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.64549,
+			"lat" : 23.416599999999999,
+			"profitmargin" : -26.641086219999998
+		},
+		"geometry" : {
+			"x" : 116.64549,
+			"y" : 23.416599999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 106,
+			"orgcode" : "SC818",
+			"SHOP_CODE_" : 10818,
+			"name" : "凯粤湾店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.22136999999999,
+			"lat" : 23.119240000000001,
+			"profitmargin" : 1.9731168539999999
+		},
+		"geometry" : {
+			"x" : 113.22136999999999,
+			"y" : 23.119240000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 107,
+			"orgcode" : "SC819",
+			"SHOP_CODE_" : 10819,
+			"name" : "K11店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.33257999999999,
+			"lat" : 23.123650000000001,
+			"profitmargin" : -4.421321378
+		},
+		"geometry" : {
+			"x" : 113.33257999999999,
+			"y" : 23.123650000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 108,
+			"orgcode" : "SC827",
+			"SHOP_CODE_" : 10827,
+			"name" : "远洋天骄店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.36851,
+			"lat" : 23.13036,
+			"profitmargin" : 27.433970129999999
+		},
+		"geometry" : {
+			"x" : 113.36851,
+			"y" : 23.13036
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 109,
+			"orgcode" : "SC828",
+			"SHOP_CODE_" : 10828,
+			"name" : "棠东商业广场店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.39027,
+			"lat" : 23.137879999999999,
+			"profitmargin" : -4.4198259389999999
+		},
+		"geometry" : {
+			"x" : 113.39027,
+			"y" : 23.137879999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 110,
+			"orgcode" : "SC829",
+			"SHOP_CODE_" : 10829,
+			"name" : "正大优鲜星华苑店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.74807,
+			"lat" : 23.3706,
+			"profitmargin" : -11.5469904
+		},
+		"geometry" : {
+			"x" : 116.74807,
+			"y" : 23.3706
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 111,
+			"orgcode" : "SC830",
+			"SHOP_CODE_" : 10830,
+			"name" : "正大优鲜卫工路店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.70703,
+			"lat" : 23.361160000000002,
+			"profitmargin" : 17.653052850000002
+		},
+		"geometry" : {
+			"x" : 116.70703,
+			"y" : 23.361160000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 112,
+			"orgcode" : "SC831",
+			"SHOP_CODE_" : 10831,
+			"name" : "锦绣香江山水园店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.34463,
+			"lat" : 23.000969999999999,
+			"profitmargin" : -26.24701146
+		},
+		"geometry" : {
+			"x" : 113.34463,
+			"y" : 23.000969999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 113,
+			"orgcode" : "SC832",
+			"SHOP_CODE_" : 10832,
+			"name" : "中惠雅苑店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.31591,
+			"lat" : 23.104849999999999,
+			"profitmargin" : -0.31367476399999999
+		},
+		"geometry" : {
+			"x" : 113.31591,
+			"y" : 23.104849999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 114,
+			"orgcode" : "SC833",
+			"SHOP_CODE_" : 10833,
+			"name" : "正大优鲜香樟美地店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 116.70229,
+			"lat" : 23.38646,
+			"profitmargin" : 22.85982241
+		},
+		"geometry" : {
+			"x" : 116.70229,
+			"y" : 23.38646
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 115,
+			"orgcode" : "SC834",
+			"SHOP_CODE_" : 10834,
+			"name" : "麓景路店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.2843,
+			"lat" : 23.149730000000002,
+			"profitmargin" : 25.44052946
+		},
+		"geometry" : {
+			"x" : 113.2843,
+			"y" : 23.149730000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 116,
+			"orgcode" : "SC843",
+			"SHOP_CODE_" : 10843,
+			"name" : "正大优鲜沿江华庭店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 110.37889,
+			"lat" : 21.288460000000001,
+			"profitmargin" : 20.385924540000001
+		},
+		"geometry" : {
+			"x" : 110.37889,
+			"y" : 21.288460000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 117,
+			"orgcode" : "SC14",
+			"SHOP_CODE_" : 10014,
+			"name" : "白云三元里店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 113.263496,
+			"lat" : 23.152001,
+			"profitmargin" : -9.8986572620000004
+		},
+		"geometry" : {
+			"x" : 113.26344,
+			"y" : 23.167100000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 118,
+			"orgcode" : "SC28",
+			"SHOP_CODE_" : 10028,
+			"name" : "西安唐延路店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 108.89655999999999,
+			"lat" : 34.239800000000002,
+			"profitmargin" : 10.518533980000001
+		},
+		"geometry" : {
+			"x" : 108.89655999999999,
+			"y" : 34.239800000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 119,
+			"orgcode" : "SC52",
+			"SHOP_CODE_" : 10052,
+			"name" : "郑州东环路店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 113.7119,
+			"lat" : 34.790700000000001,
+			"profitmargin" : 5.6155882009999996
+		},
+		"geometry" : {
+			"x" : 113.7119,
+			"y" : 34.790700000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 120,
+			"orgcode" : "SC842",
+			"SHOP_CODE_" : 10842,
+			"name" : "正大优鲜星沙步行街店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中南区",
+			"NDQ_NAME" : "Middle South Area",
+			"lon" : 113.08756,
+			"lat" : 28.251819999999999,
+			"profitmargin" : 14.02408294
+		},
+		"geometry" : {
+			"x" : 113.08756,
+			"y" : 28.251819999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 121,
+			"orgcode" : "SC503",
+			"SHOP_CODE_" : 10503,
+			"name" : "凯德御锦城店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.47517000000001,
+			"lat" : 39.998629999999999,
+			"profitmargin" : -13.459440069999999
+		},
+		"geometry" : {
+			"x" : 116.47517000000001,
+			"y" : 39.998629999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 122,
+			"orgcode" : "DC905",
+			"SHOP_CODE_" : 90501,
+			"name" : "北京配货中心",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.57351,
+			"lat" : 39.761539999999997,
+			"profitmargin" : 22.226242209999999
+		},
+		"geometry" : {
+			"x" : 116.57351,
+			"y" : 39.761539999999997
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 123,
+			"orgcode" : "SC602",
+			"SHOP_CODE_" : 10602,
+			"name" : "Mall凤城八路店",
+			"DQ_CODE" : 5000,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 113.26344,
+			"lat" : 23.167100000000001,
+			"profitmargin" : -11.16899804
+		},
+		"geometry" : {
+			"x" : 113.26344,
+			"y" : 23.167100000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 124,
+			"orgcode" : "SC850",
+			"SHOP_CODE_" : 10850,
+			"name" : "加州城市花园店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "西南区",
+			"NDQ_NAME" : "Southwest Area",
+			"lon" : 106.52802,
+			"lat" : 29.596350000000001,
+			"profitmargin" : -9.636228397
+		},
+		"geometry" : {
+			"x" : 106.52802,
+			"y" : 29.596350000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 125,
+			"orgcode" : "SC308",
+			"SHOP_CODE_" : 10308,
+			"name" : "正大西广场店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中东南区",
+			"NDQ_NAME" : "Middle Southeast Area",
+			"lon" : 112.46668,
+			"lat" : 34.623350000000002,
+			"profitmargin" : 26.456830889999999
+		},
+		"geometry" : {
+			"x" : 112.46668,
+			"y" : 34.623350000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 126,
+			"orgcode" : "SC04",
+			"SHOP_CODE_" : 10004,
+			"name" : "吴中店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.38194,
+			"lat" : 31.17652,
+			"profitmargin" : 22.609681340000002
+		},
+		"geometry" : {
+			"x" : 121.38194,
+			"y" : 31.17652
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 127,
+			"orgcode" : "SC05",
+			"SHOP_CODE_" : 10005,
+			"name" : "上南店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.50198,
+			"lat" : 31.154689999999999,
+			"profitmargin" : -3.963968972
+		},
+		"geometry" : {
+			"x" : 121.50198,
+			"y" : 31.154689999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 128,
+			"orgcode" : "SC07",
+			"SHOP_CODE_" : 10007,
+			"name" : "曹安店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.37003,
+			"lat" : 31.252770000000002,
+			"profitmargin" : -15.34210304
+		},
+		"geometry" : {
+			"x" : 121.37003,
+			"y" : 31.252770000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 129,
+			"orgcode" : "SC10",
+			"SHOP_CODE_" : 10010,
+			"name" : "汶水店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.42543999999999,
+			"lat" : 31.28734,
+			"profitmargin" : -6.5564196360000002
+		},
+		"geometry" : {
+			"x" : 121.42543999999999,
+			"y" : 31.28734
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 130,
+			"orgcode" : "SC11",
+			"SHOP_CODE_" : 10011,
+			"name" : "杨高北路店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.60983,
+			"lat" : 31.27834,
+			"profitmargin" : 27.27001769
+		},
+		"geometry" : {
+			"x" : 121.60983,
+			"y" : 31.27834
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 131,
+			"orgcode" : "SC18",
+			"SHOP_CODE_" : 10018,
+			"name" : "泰山广场",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "食品企业区",
+			"NDQ_NAME" : "Food Area",
+			"lon" : 117.08695,
+			"lat" : 36.19896,
+			"profitmargin" : -8.7752096650000002
+		},
+		"geometry" : {
+			"x" : 117.08695,
+			"y" : 36.19896
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 132,
+			"orgcode" : "SC25",
+			"SHOP_CODE_" : 10025,
+			"name" : "朝阳路店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.39713,
+			"lat" : 39.916530000000002,
+			"profitmargin" : -6.9128727049999998
+		},
+		"geometry" : {
+			"x" : 116.39713,
+			"y" : 39.916530000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 133,
+			"orgcode" : "SC26",
+			"SHOP_CODE_" : 10026,
+			"name" : "解放南路店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 117.1951,
+			"lat" : 34.221939999999996,
+			"profitmargin" : 7.979732898
+		},
+		"geometry" : {
+			"x" : 117.1951,
+			"y" : 34.221939999999996
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 134,
+			"orgcode" : "SC27",
+			"SHOP_CODE_" : 10027,
+			"name" : "岳阳店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.24095,
+			"lat" : 31.01773,
+			"profitmargin" : 24.58490463
+		},
+		"geometry" : {
+			"x" : 121.24095,
+			"y" : 31.01773
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 135,
+			"orgcode" : "SC30",
+			"SHOP_CODE_" : 10030,
+			"name" : "通州店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.6879,
+			"lat" : 39.891550000000002,
+			"profitmargin" : 13.28865141
+		},
+		"geometry" : {
+			"x" : 116.6879,
+			"y" : 39.891550000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 136,
+			"orgcode" : "SC33",
+			"SHOP_CODE_" : 10033,
+			"name" : "川沙店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.69508999999999,
+			"lat" : 31.200220000000002,
+			"profitmargin" : -6.2426197200000004
+		},
+		"geometry" : {
+			"x" : 121.69508999999999,
+			"y" : 31.200220000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 137,
+			"orgcode" : "SC34",
+			"SHOP_CODE_" : 10034,
+			"name" : "长江北路店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 120.97815,
+			"lat" : 31.401959999999999,
+			"profitmargin" : -5.5175483429999996
+		},
+		"geometry" : {
+			"x" : 120.97815,
+			"y" : 31.401959999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 138,
+			"orgcode" : "SC35",
+			"SHOP_CODE_" : 10035,
+			"name" : "金源店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.28780999999999,
+			"lat" : 39.960560000000001,
+			"profitmargin" : -26.26535402
+		},
+		"geometry" : {
+			"x" : 116.28780999999999,
+			"y" : 39.960560000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 139,
+			"orgcode" : "SC40",
+			"SHOP_CODE_" : 10040,
+			"name" : "保德店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.46726,
+			"lat" : 31.319510000000001,
+			"profitmargin" : 24.90656311
+		},
+		"geometry" : {
+			"x" : 121.46726,
+			"y" : 31.319510000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 140,
+			"orgcode" : "SC41",
+			"SHOP_CODE_" : 10041,
+			"name" : "南奉店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.47629000000001,
+			"lat" : 30.915019999999998,
+			"profitmargin" : 23.721865340000001
+		},
+		"geometry" : {
+			"x" : 121.47629000000001,
+			"y" : 30.915019999999998
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 141,
+			"orgcode" : "SC43",
+			"SHOP_CODE_" : 10043,
+			"name" : "杨高中路店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.55418,
+			"lat" : 31.23077,
+			"profitmargin" : -5.6449922350000001
+		},
+		"geometry" : {
+			"x" : 121.55418,
+			"y" : 31.23077
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 142,
+			"orgcode" : "SC50",
+			"SHOP_CODE_" : 10050,
+			"name" : "卫清店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.33565,
+			"lat" : 30.72758,
+			"profitmargin" : 2.0464915819999998
+		},
+		"geometry" : {
+			"x" : 121.33565,
+			"y" : 30.72758
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 143,
+			"orgcode" : "SC55",
+			"SHOP_CODE_" : 10055,
+			"name" : "文诚路店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.21992,
+			"lat" : 31.032769999999999,
+			"profitmargin" : -17.424003070000001
+		},
+		"geometry" : {
+			"x" : 121.21992,
+			"y" : 31.032769999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 144,
+			"orgcode" : "SC57",
+			"SHOP_CODE_" : 10057,
+			"name" : "石佛营店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.50548999999999,
+			"lat" : 39.921529999999997,
+			"profitmargin" : 1.661996934
+		},
+		"geometry" : {
+			"x" : 116.50548999999999,
+			"y" : 39.921529999999997
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 145,
+			"orgcode" : "SC59",
+			"SHOP_CODE_" : 10059,
+			"name" : "成府路店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.33416,
+			"lat" : 39.993180000000002,
+			"profitmargin" : -13.930507159999999
+		},
+		"geometry" : {
+			"x" : 116.33416,
+			"y" : 39.993180000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 146,
+			"orgcode" : "SC60",
+			"SHOP_CODE_" : 10060,
+			"name" : "蕴川路店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.43286999999999,
+			"lat" : 31.366689999999998,
+			"profitmargin" : -18.64086769
+		},
+		"geometry" : {
+			"x" : 121.43286999999999,
+			"y" : 31.366689999999998
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 147,
+			"orgcode" : "SC69",
+			"SHOP_CODE_" : 10069,
+			"name" : "上江店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 120.7208,
+			"lat" : 27.9831,
+			"profitmargin" : 3.923224904
+		},
+		"geometry" : {
+			"x" : 120.7208,
+			"y" : 27.9831
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 148,
+			"orgcode" : "SC75",
+			"SHOP_CODE_" : 10075,
+			"name" : "北苑路店",
+			"DQ_CODE" : 400,
+			"DQ_NAME" : "华北区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 116.41835,
+			"lat" : 40.0334,
+			"profitmargin" : -10.626033809999999
+		},
+		"geometry" : {
+			"x" : 116.41835,
+			"y" : 40.0334
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 149,
+			"orgcode" : "SC78",
+			"SHOP_CODE_" : 10078,
+			"name" : "浦江店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.50843999999999,
+			"lat" : 31.083079999999999,
+			"profitmargin" : 23.731781179999999
+		},
+		"geometry" : {
+			"x" : 121.50843999999999,
+			"y" : 31.083079999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 150,
+			"orgcode" : "SC82",
+			"SHOP_CODE_" : 10082,
+			"name" : "新港路店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.49818999999999,
+			"lat" : 31.269770000000001,
+			"profitmargin" : 23.198650350000001
+		},
+		"geometry" : {
+			"x" : 121.49818999999999,
+			"y" : 31.269770000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 151,
+			"orgcode" : "SC87",
+			"SHOP_CODE_" : 87,
+			"name" : "新天地店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.47521999999999,
+			"lat" : 31.216650000000001,
+			"profitmargin" : -1.4620598499999999
+		},
+		"geometry" : {
+			"x" : 121.47521999999999,
+			"y" : 31.216650000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 152,
+			"orgcode" : "SC124",
+			"SHOP_CODE_" : 10124,
+			"name" : "昆山花桥店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.12594,
+			"lat" : 31.285219999999999,
+			"profitmargin" : 5.3097085079999999
+		},
+		"geometry" : {
+			"x" : 121.12594,
+			"y" : 31.285219999999999
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 153,
+			"orgcode" : "SC126",
+			"SHOP_CODE_" : 10126,
+			"name" : "牡丹江店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.48745,
+			"lat" : 31.394100000000002,
+			"profitmargin" : 22.39087649
+		},
+		"geometry" : {
+			"x" : 121.48745,
+			"y" : 31.394100000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 154,
+			"orgcode" : "SC502",
+			"SHOP_CODE_" : 10502,
+			"name" : "凯德壹中心店",
+			"DQ_CODE" : 500,
+			"DQ_NAME" : "华西区",
+			"NDQ_CODE" : "中南区",
+			"NDQ_NAME" : "Middle South Area",
+			"lon" : 112.9628,
+			"lat" : 28.247520000000002,
+			"profitmargin" : -3.5340399769999999
+		},
+		"geometry" : {
+			"x" : 112.9628,
+			"y" : 28.247520000000002
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 155,
+			"orgcode" : "SC140",
+			"SHOP_CODE_" : 10140,
+			"name" : "锡山店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 120.36368,
+			"lat" : 31.58267,
+			"profitmargin" : 7.934893303
+		},
+		"geometry" : {
+			"x" : 120.36368,
+			"y" : 31.58267
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 156,
+			"orgcode" : "SC105",
+			"SHOP_CODE_" : 10105,
+			"name" : "阳西凯旋店",
+			"DQ_CODE" : 300,
+			"DQ_NAME" : "华南区",
+			"NDQ_CODE" : "莲花南区",
+			"NDQ_NAME" : "South Lotus",
+			"lon" : 111.76638,
+			"lat" : 21.658010000000001,
+			"profitmargin" : -10.11351097
+		},
+		"geometry" : {
+			"x" : 111.76638,
+			"y" : 21.658010000000001
+		}
+	},
+	{
+		"attributes" : {
+			"FID" : 157,
+			"orgcode" : "SC09",
+			"SHOP_CODE_" : 9,
+			"name" : "正大广场店",
+			"DQ_CODE" : 100,
+			"DQ_NAME" : "华东区",
+			"NDQ_CODE" : "北方区",
+			"NDQ_NAME" : "North Area",
+			"lon" : 121.49903,
+			"lat" : 31.237259999999999,
+			"profitmargin" : 21.662541560000001
+		},
+		"geometry" : {
+			"x" : 121.49903,
+			"y" : 31.237259999999999
+		}
+	}
+]
